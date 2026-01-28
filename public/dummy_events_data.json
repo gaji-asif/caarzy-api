@@ -1,0 +1,2633 @@
+{
+    "meta": {
+        "count": 326,
+        "next": "https://api.hel.fi/linkedevents/v1/search/?page=4&q=babies",
+        "previous": "https://api.hel.fi/linkedevents/v1/search/?page=2&q=babies"
+    },
+    "data": [
+        {
+            "id": "helsinki:agijzjvrgm",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:53083/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p2969/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p27962/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p11185/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": false,
+                    "offer_price_groups": [],
+                    "price": {
+                        "fi": "alk. 27,50€",
+                        "en": "from 27,50€"
+                    },
+                    "info_url": {
+                        "fi": "https://www.livenation.fi/show/1504409/baby-lasagna-meow-back-tour-spring-2025/helsinki/2025-03-23/fi",
+                        "en": "https://www.livenation.fi/show/1504409/baby-lasagna-meow-back-tour-spring-2025/helsinki/2025-03-23/fi"
+                    },
+                    "description": {
+                        "fi": "",
+                        "en": ""
+                    }
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ytj:0586977-6",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 77230,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2022-01-19T13:17:48.095331Z",
+                    "last_modified_time": "2022-01-19T13:19:28.792394Z",
+                    "name": "Kulttuuritalo",
+                    "url": "https://api.hel.fi/linkedevents/media/images/kult_talo_672k.jpg",
+                    "cropping": "250,0,950,701",
+                    "photographer_name": "Helsingin kaupunki aineistopankki (c) Seppo Laakso",
+                    "alt_text": "Kulttuuritalo ulkoapäin",
+                    "data_source": "helsinki",
+                    "publisher": "ytj:0586977-6",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/77230/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": "2024-07-10T12:38:08.479209Z",
+            "last_modified_time": "2024-07-10T12:38:08.479233Z",
+            "date_published": null,
+            "start_time": "2025-03-23T16:00:00Z",
+            "end_time": "2025-03-23T21:59:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": 0,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 1500,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby Lasagna: Meow Back Tour Spring 2025",
+                "en": "Alessandra: The Queen is Back-Tour 2025"
+            },
+            "short_description": {
+                "fi": "Kroatialainen laulaja-lauluntekijä ja musiikkituottaja Marko Purišić, taiteilijanimeltään Baby Lasagna nousi kertarysäyksellä musiikkimaailman tietoisuuteen",
+                "en": "Croatian singer-songwriter and music producer Marko Purišić, stage name Baby Lasagna, suddenly rose to the music world's consciousness "
+            },
+            "location_extra_info": {
+                "fi": "",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "https://www.livenation.fi/show/1504409/baby-lasagna-meow-back-tour-spring-2025/helsinki/2025-03-23/fi",
+                "en": "https://www.livenation.fi/show/1504409/baby-lasagna-meow-back-tour-spring-2025/helsinki/2025-03-23/fi"
+            },
+            "headline": null,
+            "provider": {
+                "fi": "Live Nation Finland",
+                "en": "Live Nation Finland"
+            },
+            "description": {
+                "fi": "<p>Kroatialainen laulaja-lauluntekijä ja musiikkituottaja Marko Purišić, taiteilijanimeltään Baby Lasagna nousi kertarysäyksellä musiikkimaailman tietoisuuteen edustettuaan Kroatiaa Euroviisuissa 2024 kappaleella \"Rim Tim Tagi Dim\", jolla voitti yleisöäänestyksen ja sijoittui lopulta toiseksi. Kappale käsittelee nuorten kroatialaisten taloudellista maastamuuttoa humoristisella otteella ja on saanut laajaa kiitosta niin kotimaassa kuin kansainvälisesti.<br><br>Baby Lasagnan musiikki yhdistelee pop punkin, teknon, metallin ja housen elementtejä. Käärijänkin arvostama artisti ammentaa vaikutteita muun muassa Rammsteinilta, Electric Callboyltä ja Twenty One Pilotsilta. Spotifyssa jo yli 35 miljoonaa kertaa striimattu Euroviisu- ja läpilyöntihitti \"Rim Tim Tagi Dim\" on Baby Lasagnan kolmas single hänen ensi talvena ilmestyvältä debyyttialbumiltaan \"Demons and Mosquitoes\" ja se on ollut Top 40 -listoilla mm. Iso-Britanniassa, Saksassa ja Itävallassa.<br><br>Mies tunnetaan myös kappaleistaan \"IG Boy\" ja \"Don't Hate Yourself, But Don't Love Yourself Too Much\", jotka ovat saaneet laajaa huomiota artistin viisumenestyksen jälkeen.&nbsp;<br><br>Baby Lasagna esiintyy Suomessa nyt ensimmäistä kertaa.<br><br><br>Kulttuuritalo</p><p>23.3.2025</p><p>Ovet 18.00, kesto avoin</p><p>Liput alk. 27,50€ Lippupisteestä</p>",
+                "en": "<p>Croatian singer-songwriter and music producer Marko Purišić, aka Baby Lasagna, suddenly rose to the music world's consciousness after representing Croatia in Eurovision 2024 with the song \"Rim Tim Tagi Dim\", with which he won the public vote and finished second.&nbsp;</p><p>Baby Lasagna's music combines elements of pop punk, techno, metal and house. The artist draws influences from, among others, Rammstein, Electric Callboy and Twenty One Pilots.&nbsp;</p><p>The Eurovision and breakthrough hit \"Rim Tim Tagi Dim\", which has already been streamed more than 35 million times on Spotify, is Baby Lasagna's third single from his debut album \"Demons and Mosquitoes\", which will be released next winter.&nbsp;</p><p>The man is also known for his songs \"IG Boy\" and \"Don't Hate Yourself, But Don't Love Yourself Too Much\", which have received widespread attention after the artist's success.</p><p>&nbsp;</p><p>Hall of Culture</p><p>23.3.2025</p><p>Doors 18.00, the duration is not mentioned</p><p>Tickets starting from 27,50€ from Lippupiste</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agijzjvrgm/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 11.385344
+        },
+        {
+            "id": "kulke:40053",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:7258/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:49/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:55/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:31/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:348/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:54/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:53/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": false,
+                    "offer_price_groups": [],
+                    "price": {
+                        "fi": "31 €",
+                        "sv": "31 €",
+                        "en": "31 €"
+                    },
+                    "info_url": {
+                        "fi": "http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=1793266&includeOnlybookable=false&xtmc=Savoy-teatteri&xtnp=2&xtcr=23",
+                        "sv": "http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=1793266&includeOnlybookable=false&xtmc=Savoy-teatteri&xtnp=2&xtcr=23",
+                        "en": "http://www.lippu.fi/Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets&erid=1793266&includeOnlybookable=false&xtmc=Savoy-teatteri&xtnp=2&xtcr=23"
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "kulke",
+            "publisher": "ahjo:46101",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 33614,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2016-11-28T11:11:54.567788Z",
+                    "last_modified_time": "2017-01-03T17:05:25.003099Z",
+                    "name": "",
+                    "url": "http://www.savoyteatteri.fi/instancedata/prime_product_resurssivaraus/kulke/embeds/EventPic_591464.jpg",
+                    "cropping": "",
+                    "photographer_name": null,
+                    "alt_text": null,
+                    "data_source": "kulke",
+                    "publisher": "ahjo:46101",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/33614/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": null,
+            "last_modified_time": "2016-11-28T11:11:54.573268Z",
+            "date_published": null,
+            "start_time": "2017-03-24T17:00:00Z",
+            "end_time": null,
+            "custom_data": null,
+            "environmental_certificate": null,
+            "environment": null,
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": null,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": true,
+            "replaced_by": null,
+            "name": {
+                "fi": "Kreikan kulttuurifestivaalit – Helsingin Kreikka-Suomi yhdistys ry 60 vuotta – Suomi 100 vuotta",
+                "sv": "Grekiska kulturfestivalet",
+                "en": "Creek cultural festival"
+            },
+            "short_description": {
+                "fi": "K. Kafafis ja N. Gatsios -ryhmät, johtajanaan Babis Koulouras"
+            },
+            "location_extra_info": null,
+            "info_url": {
+                "fi": "http://www.savoyteatteri.fi/fi/tapahtumat/event/80C0BDB552D9BD2EFA1790E9D01E134A/Kreikan_kulttuurifestivaalit_",
+                "sv": "http://www.savoyteatteri.fi/sv/evenemangen/event/80C0BDB552D9BD2EFA1790E9D01E134A/Grekiska_kulturfestivalet_",
+                "en": "http://www.savoyteatteri.fi/en/events/event/80C0BDB552D9BD2EFA1790E9D01E134A/Creek_cultural_festival_"
+            },
+            "headline": {
+                "fi": "Kreikan kulttuurifestivaalit",
+                "sv": "Grekiska kulturfestivalet",
+                "en": "Creek cultural festival"
+            },
+            "provider": {
+                "fi": "Helsingin Suomi-Kreikka yhdistys ry",
+                "sv": "Helsingin Suomi-Kreikka yhdistys ry",
+                "en": "Helsingin Suomi-Kreikka yhdistys ry"
+            },
+            "description": {
+                "fi": "K. Kafafis ja N. Gatsios -ryhmät, johtajanaan Babis Koulouras\n\nBabis Koulouras saapuu Suomeen jo kolmannen kerran konsertoimaan. Mukanaan hänellä on 13 muusikkoa Syroksen saaren Kulttuurikeskuksesta. Orkesteri soittaa mm. Theodorakiksen, Hadzidakiksen ja Gatsiosin musiikkia. Tuotanto Helsingin Suomi-Kreikka yhdistys ry yhteistyössä Suomi-Kreikka yhdistysten liitto ry:n ja Suomen Helleenit ry:n kanssa + 8 v Kesto 2,5 h sis. väliajan",
+                "sv": "Babis Koulouras kommer redan för tredje gången till Finland för att spela. Med sig har han 13 musiker från kulturcentret på ön Syros. Längd 2,5 timmar, inkluderande paus",
+                "en": "Babis Koulouras will arrive in Finland for the third time to give a concert alongside 13 musicians from the Cultural Centre of the island of Syros. The duration (incl. intermission) 2,5 hours"
+            },
+            "secondary_headline": {
+                "fi": "Helsingin Kreikka-Suomi yhdistys ry 60 vuotta – Suomi 100 vuotta"
+            },
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/kulke:40053/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 11.284248
+        },
+        {
+            "id": "espoo:145669",
+            "has_user_editable_resources": false,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:28401/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15618/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3523/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p3286/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1650/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [],
+            "data_source": "espoo",
+            "publisher": "espoo:kaupunki",
+            "sub_events": [],
+            "images": [],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": "2018-08-30T14:24:03.566136Z",
+            "last_modified_time": "2018-08-30T14:24:03.566168Z",
+            "date_published": "2018-08-30T12:00:00Z",
+            "start_time": "2018-09-03T11:00:00Z",
+            "end_time": "2018-09-03T11:20:00Z",
+            "custom_data": null,
+            "environmental_certificate": null,
+            "environment": null,
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": null,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Vauvojen musiikkituokio"
+            },
+            "short_description": {
+                "fi": "Klo 14 Vauvojen musiikkituokio / Singing with babies at 2 p.m."
+            },
+            "location_extra_info": {
+                "fi": "Kilonpuiston lastentalon avoin päiväkoti Onnenpesä, ad. Inkoonkuja 15, gsm. 046 877 1626"
+            },
+            "info_url": null,
+            "headline": null,
+            "provider": null,
+            "description": null,
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/espoo:145669/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 11.2329235
+        },
+        {
+            "id": "kulke:48316",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:7265/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:348/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:53/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:48/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:671/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:55/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1808/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:673/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:31/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/kulke:616/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": null,
+                    "description": null
+                }
+            ],
+            "data_source": "kulke",
+            "publisher": "ahjo:u4804001050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 55487,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2019-05-20T11:13:59.416480Z",
+                    "last_modified_time": "2019-05-20T11:13:59.416499Z",
+                    "name": "",
+                    "url": "http://www.espanlava.fi/instancedata/prime_product_resurssivaraus/kulke/embeds/EventPic_648336.jpg",
+                    "cropping": "",
+                    "photographer_name": null,
+                    "alt_text": null,
+                    "data_source": "kulke",
+                    "publisher": "ahjo:u4804001050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/55487/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [],
+            "created_time": "2019-05-20T11:13:59.378065Z",
+            "last_modified_time": "2019-05-20T11:13:59.436898Z",
+            "date_published": null,
+            "start_time": "2019-06-13T13:30:00Z",
+            "end_time": null,
+            "custom_data": null,
+            "environmental_certificate": null,
+            "environment": null,
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": null,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": true,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby Boy Varhama & Matti Hussi – Open Stage",
+                "en": "Baby Boy Varhama & Matti Hussi – Open Stage"
+            },
+            "short_description": null,
+            "location_extra_info": null,
+            "info_url": {
+                "fi": "http://www.espanlava.fi/fi/tapahtumat/event/5F0CF70DC8AE63A1C7D987A40FEA9A10/Baby_Boy_Varhama_Matti_Hussi",
+                "en": "http://www.espanlava.fi/en/events/event/5F0CF70DC8AE63A1C7D987A40FEA9A10/Baby_Boy_Varhama_Matti_Hussi"
+            },
+            "headline": {
+                "fi": "Baby Boy Varhama & Matti Hussi",
+                "en": "Baby Boy Varhama & Matti Hussi"
+            },
+            "provider": null,
+            "description": {
+                "fi": "<p>Muutokset mahdollisia</p>",
+                "en": "<p>Changes in the programme may occur</p>"
+            },
+            "secondary_headline": {
+                "fi": "Open Stage",
+                "en": "Open Stage"
+            },
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/kulke:48316/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 11.2329235
+        },
+        {
+            "id": "helsinki:aghde5spnm",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:8102/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p10727/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p1235/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghde5szl4/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [
+                {
+                    "name": "extlink_facebook",
+                    "link": "https://www.facebook.com/events/268464969476791/268464986143456/",
+                    "language": "fi"
+                }
+            ],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 107275,
+                    "has_user_editable_resources": true,
+                    "license": "cc_by",
+                    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+                    "created_time": "2024-03-12T11:39:13.675990Z",
+                    "last_modified_time": "2024-04-26T11:37:33.798339Z",
+                    "name": "BabyKino_taustakuva.jpg",
+                    "url": "https://api.hel.fi/linkedevents/media/images/BabyKino_taustakuva_EzJDQpU.jpg",
+                    "cropping": "120,0,597,477",
+                    "photographer_name": "",
+                    "alt_text": "piirretty kuva, jossa kahvikuppi ja BabyKino teksti",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/107275/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p5590/"
+                }
+            ],
+            "created_time": "2024-03-12T11:39:58.198980Z",
+            "last_modified_time": "2024-03-27T11:50:42.538128Z",
+            "date_published": null,
+            "start_time": "2024-04-05T07:00:00Z",
+            "end_time": "2024-04-05T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": null,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": null,
+            "minimum_attendee_capacity": null,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Maunulan Baby Kino"
+            },
+            "short_description": {
+                "fi": "Maunula-talon nuorisotalo muuttuu elokuvasaliksi! Baby Kino on tarkoitettu vanhemmille/hoitajille ja vauvoille, tervetuloa!"
+            },
+            "location_extra_info": {
+                "fi": "Maunula-talo, Maunulan kirjasto"
+            },
+            "info_url": {
+                "fi": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": ""
+            },
+            "description": {
+                "fi": "<p>&nbsp;</p><p><strong>Maunulan Baby Kino</strong></p><p>Maunula-talon nuorisotalo muuttuu elokuvasaliksi!</p><p>Baby Kino järjestetään nuorisotalon olohuoneessa 2.krs:</p><p><strong>pe 5.1., 9.2., 1.3., 5.4. ja 3.5. klo 10-12</strong></p><p>Baby Kino -näytös on tarkoitettu vanhemmille/hoitajille ja vauvoille.<br>Elokuvaesitykset ovat vauvaystävällisiä, mutta elokuvat on valittu&nbsp;aikuiseen makuun sopiviksi.<br>Elokuvan äänet ovat normaalia hiljaisemmalla.<br>Tilassa on himmeä valaistus.<br>Elokuvat ovat ikärajaltaan sallittuja (S).<br>Vauvanhoitoa helpottavat tilassa sijaitsevat vesipiste ja mikroaaltouuni.<br>Maunula-talon aulasta löytyy lastenhoitotaso.</p><p>Kahvia ja teetä on tarjolla.</p><p>Olohuoneessa on sohvia, nojatuoleja ja&nbsp;&nbsp;lattialla iso peitoin päällystetty matto. Lisäksi oma alusta toisi mukavuutta vauvalle. Voit myös ottaa mukaan kantokassin/turvaistuimen, jossa vauvasi voi nukkua leffan aikana.</p><p><strong>Kevään 2024 leffat​</strong><br>​5.1. New year’s eve / ohj. Garry Marshall &nbsp;​<br>9.2.. Marie Antoinette / ohj. Sofia Coppola​&nbsp;<br>1.3. Chef / ohj. Jon Favreau​<br>5.4. In the heights / ohj. Jon M. Chu​<br>3.5. Havannan taivaan alla / ohj. Laurent Cantet​</p><p>Esitykset ovat aina maksuttomia. Tervetuloa!</p><p>&nbsp;</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:aghde5spnm/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 11.008136
+        },
+        {
+            "id": "helsinki:agkemabdqe",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabkh4/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                }
+            ],
+            "created_time": "2025-01-08T13:00:01.804518Z",
+            "last_modified_time": "2025-01-08T13:00:01.804539Z",
+            "date_published": null,
+            "start_time": "2025-01-17T08:00:00Z",
+            "end_time": "2025-01-17T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025</strong>. Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabdqe/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkemabfei",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabkh4/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                }
+            ],
+            "created_time": "2025-01-08T13:00:02.222561Z",
+            "last_modified_time": "2025-01-08T13:00:02.222585Z",
+            "date_published": null,
+            "start_time": "2025-01-31T08:00:00Z",
+            "end_time": "2025-01-31T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025</strong>. Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabfei/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkemabgqm",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabkh4/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                }
+            ],
+            "created_time": "2025-01-08T13:00:02.574880Z",
+            "last_modified_time": "2025-01-08T13:00:02.574901Z",
+            "date_published": null,
+            "start_time": "2025-02-14T08:00:00Z",
+            "end_time": "2025-02-14T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025</strong>. Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabgqm/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkemabkh4",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabdqe/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabfei/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabgqm/"
+                }
+            ],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2025-01-08T13:00:03.573884Z",
+            "last_modified_time": "2025-01-08T13:00:03.573908Z",
+            "date_published": null,
+            "start_time": "2025-01-17T08:00:00Z",
+            "end_time": "2025-02-14T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": "recurring",
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025</strong>. Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkemabkh4/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkyaf3ore",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf34vq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                }
+            ],
+            "created_time": "2025-03-10T12:46:14.194627Z",
+            "last_modified_time": "2025-03-10T12:46:14.194644Z",
+            "date_published": null,
+            "start_time": "2025-03-14T08:00:00Z",
+            "end_time": "2025-03-14T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025.</strong> Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3ore/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5q4by",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:40.494599Z",
+            "last_modified_time": "2024-08-29T07:07:40.494624Z",
+            "date_published": null,
+            "start_time": "2024-09-06T07:00:00Z",
+            "end_time": "2024-09-06T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5q4by/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5q7ka",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:41.279446Z",
+            "last_modified_time": "2024-08-29T07:07:41.279468Z",
+            "date_published": null,
+            "start_time": "2024-09-20T07:00:00Z",
+            "end_time": "2024-09-20T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5q7ka/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5rbfy",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:41.759546Z",
+            "last_modified_time": "2024-08-29T07:07:41.759570Z",
+            "date_published": null,
+            "start_time": "2024-10-04T07:00:00Z",
+            "end_time": "2024-10-04T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rbfy/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5rdam",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:42.225923Z",
+            "last_modified_time": "2024-08-29T07:07:42.225956Z",
+            "date_published": null,
+            "start_time": "2024-10-18T07:00:00Z",
+            "end_time": "2024-10-18T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rdam/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5re6u",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:42.722994Z",
+            "last_modified_time": "2024-08-29T07:07:42.723017Z",
+            "date_published": null,
+            "start_time": "2024-11-01T08:00:00Z",
+            "end_time": "2024-11-01T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5re6u/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5rgzu",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:43.195191Z",
+            "last_modified_time": "2024-08-29T07:07:43.195216Z",
+            "date_published": null,
+            "start_time": "2024-11-15T08:00:00Z",
+            "end_time": "2024-11-15T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rgzu/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5ritq",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:43.659289Z",
+            "last_modified_time": "2024-08-29T07:07:43.659311Z",
+            "date_published": null,
+            "start_time": "2024-11-29T08:00:00Z",
+            "end_time": "2024-11-29T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5ritq/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agizz5rooq",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5q4by/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5q7ka/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rbfy/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rdam/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5re6u/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rgzu/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5ritq/"
+                }
+            ],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2024-08-29T07:07:45.207991Z",
+            "last_modified_time": "2024-08-29T07:07:45.208015Z",
+            "date_published": null,
+            "start_time": "2024-09-06T07:00:00Z",
+            "end_time": "2024-11-29T09:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": "recurring",
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet på barnområdet",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>6.9.2024</strong>. Övriga fredagar <strong>20.9, 4.10, 18.10, 1.11, 15.11</strong> och <strong>29.11</strong>.</p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agizz5rooq/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkyaf34vq",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                }
+            ],
+            "registration": null,
+            "super_event": null,
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3ore/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3sbi/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3u3y/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3xry/"
+                }
+            ],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                }
+            ],
+            "created_time": "2025-03-10T12:46:17.781034Z",
+            "last_modified_time": "2025-03-27T14:39:06.396769Z",
+            "date_published": null,
+            "start_time": "2025-03-14T08:00:00Z",
+            "end_time": "2025-05-09T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": "recurring",
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025.</strong> Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3-INHIBERAD, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf34vq/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        },
+        {
+            "id": "helsinki:agkyaf3sbi",
+            "has_user_editable_resources": true,
+            "location": {
+                "@id": "https://api.hel.fi/linkedevents/v1/place/tprek:51342/"
+            },
+            "keywords": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p360/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p15937/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p8113/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p156/"
+                }
+            ],
+            "registration": null,
+            "super_event": {
+                "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf34vq/"
+            },
+            "event_status": "EventScheduled",
+            "type_id": "General",
+            "external_links": [],
+            "offers": [
+                {
+                    "is_free": true,
+                    "offer_price_groups": [],
+                    "price": null,
+                    "info_url": {
+                        "fi": "",
+                        "sv": "",
+                        "en": ""
+                    },
+                    "description": null
+                }
+            ],
+            "data_source": "helsinki",
+            "publisher": "ahjo:u48040050",
+            "sub_events": [],
+            "images": [
+                {
+                    "id": 143085,
+                    "has_user_editable_resources": true,
+                    "license": "event_only",
+                    "license_url": "",
+                    "created_time": "2024-08-29T06:13:03.567333Z",
+                    "last_modified_time": "2024-08-29T06:28:01.349975Z",
+                    "name": "Läsande bebisar.",
+                    "url": "https://api.hel.fi/linkedevents/media/images/babyRGB.jpg",
+                    "cropping": "399,0,2001,1602",
+                    "photographer_name": "Linda Bondestam",
+                    "alt_text": "Tre bebisar läser färggranna böcker.",
+                    "data_source": "helsinki",
+                    "publisher": "ahjo:u48040050",
+                    "@id": "https://api.hel.fi/linkedevents/v1/image/143085/",
+                    "@context": "http://schema.org",
+                    "@type": "ImageObject"
+                }
+            ],
+            "videos": [],
+            "in_language": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/language/sv/"
+                }
+            ],
+            "audience": [
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p20513/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p13050/"
+                },
+                {
+                    "@id": "https://api.hel.fi/linkedevents/v1/keyword/yso:p4354/"
+                }
+            ],
+            "created_time": "2025-03-10T12:46:15.059252Z",
+            "last_modified_time": "2025-03-27T14:39:03.754793Z",
+            "date_published": null,
+            "start_time": "2025-04-11T07:00:00Z",
+            "end_time": "2025-04-11T08:00:00Z",
+            "custom_data": null,
+            "environmental_certificate": "",
+            "environment": "in",
+            "audience_min_age": null,
+            "audience_max_age": 1,
+            "super_event_type": null,
+            "deleted": false,
+            "maximum_attendee_capacity": 30,
+            "minimum_attendee_capacity": 2,
+            "enrolment_start_time": null,
+            "enrolment_end_time": null,
+            "local": false,
+            "replaced_by": null,
+            "name": {
+                "fi": "Baby på bibban",
+                "sv": "Baby på bibban",
+                "en": "Baby på bibban"
+            },
+            "short_description": {
+                "fi": "Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.",
+                "sv": "Kom och upptäck bibban med ditt barn!\n\n",
+                "en": "Welcome to a reading session in Swedish for babies (0-12 months)."
+            },
+            "location_extra_info": {
+                "fi": "",
+                "sv": "3. vån., aktivitetsrummet för barn",
+                "en": ""
+            },
+            "info_url": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "headline": null,
+            "provider": {
+                "fi": "",
+                "sv": "",
+                "en": ""
+            },
+            "description": {
+                "fi": "<p>Tervetuloa ruotsinkieliseen vauvojen lukuhetkeen 0–1-vuotiaille.</p>",
+                "sv": "<p>Välkommen på babybokstund till biblioteket! Vi läser och tittar på böcker för de minsta tillsammans.</p><p>Fredagar kl. <strong>10–11</strong> med start fredagen <strong>17.1.2025.</strong> Övriga fredagar <strong>31.1, 14.2, 28.2, 14.3, 28.3-INHIBERAD, 11.4, 25.4</strong> och <strong>9.5.</strong></p><p>Biblioteket bjuder på läsinspiration och kaffe med dopp.&nbsp;</p><p>För barn 0–12 månader med förälder.</p><p>Ingen förhandsanmälan behövs.</p><p>För mera information kontakta <a href=\"mailto:cecilia.eriksson@hel.fi\">cecilia.eriksson@hel.fi</a> / 050 40 25 805</p>",
+                "en": "<p>Welcome to a reading session in Swedish for babies (0-12 months).</p>"
+            },
+            "secondary_headline": null,
+            "provider_contact_info": null,
+            "@id": "https://api.hel.fi/linkedevents/v1/event/helsinki:agkyaf3sbi/",
+            "@context": "http://schema.org",
+            "@type": "Event/LinkedEvent",
+            "resource_type": "event",
+            "score": 10.736764
+        }
+    ]
+}
+
+https://api.hel.fi/linkedevents/v1/event/?division=ocd-division%2Fcountry%3Afi%2Fkunta%3Ahelsinki&event_type=General&
+// include=keywords%2Clocation&keyword_OR_set3=yso%3Ap20513%2Cyso%3Ap15937&ongoing=true&page=4&page_size=25&sort=end_time&start=now
+
+
+https://api.hel.fi/linkedevents/v1/event/?division=ocd-division%2Fcountry%3Afi%2Fkunta%3Ahelsinki&event_type=General&
+// include=keywords%2Clocation&keyword_OR_set3=yso%3Ap20513%2Cyso%3Ap15937&ongoing=true&page=2&page_size=25&sort=end_time&start=now",
