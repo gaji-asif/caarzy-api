@@ -36,7 +36,7 @@ Route::middleware('auth:sanctum')->group(function () {
     // Route::post('/messages', [MessageController::class, 'store']);
 
     //car models
-    Route::get('/all-models', [CarModelController::class, 'allModels']);
+    Route::get('/all-car-models', [CarModelController::class, 'allModels']);
 });
 
 // Auth Route

@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Auth;
 
-class CarModel extends Model
+class CarBrand extends Model
 {
     /**
      * Mass assignable attributes

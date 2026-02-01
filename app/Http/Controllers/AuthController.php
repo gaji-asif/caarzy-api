@@ -5,18 +5,15 @@ namespace App\Http\Controllers;
 use App\Http\Requests\LoginRequest;
 use App\Http\Requests\RegisterRequest;
 use App\Models\User;
-use App\Models\UserProfile;
-use Illuminate\Auth\Events\Registered;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;
-use App\Traits\UserLocationTrait;
 use Illuminate\Support\Facades\Redis;
 
 class AuthController extends Controller
 {
-    use UserLocationTrait;
+    
     // contructor Function
 
     public function __construct()
@@ -98,9 +95,9 @@ class AuthController extends Controller
             }
             
             //  Update location if lat/lng are sent
-            if ($request->filled(['lat', 'lng'])) {
-                $this->updateUserLocation($request, $user);
-            }
+            // if ($request->filled(['lat', 'lng'])) {
+            //     $this->updateUserLocation($request, $user);
+            // }
             // generate a new token for auth user
             $token = $user->createToken('auth_token')->plainTextToken;
 
