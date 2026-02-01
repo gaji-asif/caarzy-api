@@ -1,8 +1,7 @@
 <?php
 
 use App\Http\Controllers\AuthController;
-use App\Http\Controllers\CategoryController;
-use Illuminate\Support\Facades\Broadcast;
+use App\Http\Controllers\CarModelController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -36,8 +35,8 @@ Route::middleware('auth:sanctum')->group(function () {
     // Route::get('/messages', [MessageController::class, 'index']);
     // Route::post('/messages', [MessageController::class, 'store']);
 
-    //category
-    Route::get('/all-categories', [CategoryController::class, 'allCategories']);
+    //car models
+    Route::get('/all-car-models', [CarModelController::class, 'allModels']);
 });
 
 // Auth Route
