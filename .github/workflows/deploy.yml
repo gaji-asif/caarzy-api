@@ -22,7 +22,7 @@ jobs:
     - name: Deploy to EC2 Instance
       run: |
         ssh -o StrictHostKeyChecking=no ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} << 'EOF'
-          cd /var/www/NestiApp
+          cd /var/www/html/caarzy-api
           git fetch origin main
           git reset --hard origin/main
           
