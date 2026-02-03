@@ -3,21 +3,21 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\CarBrand;
+use App\Models\Car;
 
-class CarModelController extends Controller
+class CarController extends Controller
 {
-    public function allModels(Request $request)
+    public function allCars(Request $request)
     {
-         $car_brands = CarBrand::query()
+         $cars = Car::query()
             ->orderBy('id', 'asc')
             ->get();
 
 
-        if ($car_brands->isEmpty()) {
+        if ($cars->isEmpty()) {
             return response()->json([
                 'success' => false,
-                'message' => 'Car Brands not found',
+                'message' => 'Cars not found',
                 'total_count' => 0,
                 'data' => [],
             ], 404);
@@ -26,9 +26,9 @@ class CarModelController extends Controller
         
         return response()->json([
             'success' => true,
-            'message' => 'Car Model found',
-            'total_count' => $car_brands->count(),
-            'data' => $car_brands,
+            'message' => 'Cars found',
+            'total_count' => $cars->count(),
+            'data' => $cars,
         ], 200);
     }
 }

@@ -1,7 +1,8 @@
 <?php
 
 use App\Http\Controllers\AuthController;
-use App\Http\Controllers\CarModelController;
+use App\Http\Controllers\CarBrandController;
+use App\Http\Controllers\CarController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -35,8 +36,11 @@ Route::middleware('auth:sanctum')->group(function () {
     // Route::get('/messages', [MessageController::class, 'index']);
     // Route::post('/messages', [MessageController::class, 'store']);
 
-    //car models
-    Route::get('/all-car-models', [CarModelController::class, 'allModels']);
+    //car brands
+    Route::get('/all-car-brands', [CarBrandController::class, 'allBrands']);
+
+     //cars
+    Route::get('/all-cars', [CarController::class, 'allcars']);
 });
 
 // Auth Route
