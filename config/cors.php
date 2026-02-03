@@ -8,10 +8,11 @@ return [
     // 🚨 Replace '*' with your frontend URL:
     'allowed_origins' => [
      'http://localhost:5173',
-     'http://localhost:8080', 
-     'https://nesti-connect-homepage-dev.vercel.app',
-     'https://www.nesticommunity.com'
+     'http://localhost:8080',
+     'http://13.60.6.30:9001',
+     'http://localhost:9001'
      ],
+
 
     'allowed_origins_patterns' => [],
 
